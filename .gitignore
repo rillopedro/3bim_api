@@ -4,7 +4,7 @@ env/
 
 # Cache do python
 
-__pycach__/
+__pycache__/
 *.pyc
 # Arquivos de ambiente (caso usem faturamento)
 .env
